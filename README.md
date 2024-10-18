@@ -23,6 +23,12 @@ For more information, see our [deployment documentation](https://nextjs.org/docs
 
 ## Learn More
 
+To learn more about Fly.io, take a look at the following resources:
+
+- [Deep Dive Demo](https://fly.io/docs/deep-dive/) - if you want something more than a "Hello World" app to play with.
+- [Run a Next.js App](https://fly.io/docs/js/frameworks/nextjs/) - start from `create-next-app` and create a deployable app.
+- [JavaScript on Fly.io](https://fly.io/docs/js/) - deployment and debugging tips common to all JS applications.
+
 To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
