@@ -1,12 +1,12 @@
 # Deploy Next.js to Fly
 
-This is a Next.js template which can be deployed to [Fly](https://fly.io).
+This is a Next.js template which can be deployed to [Fly.io](https://fly.io).
 
 ## Deploying to Fly
 
-Fly can run your application in a Docker container on their infrastructure.
+Fly can run your application from a [Docker image without a Docker container](https://www.youtube.com/watch?v=7iypMRKniPU) on their infrastructure.
 
-[Insert Link Here When Ready]
+Everything you need to get started can be found at [https://fly.io/nextjs](https://fly.io/nextjs).  
 
 For more information, see our [deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying#self-hosting).
 
